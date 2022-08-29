@@ -15,14 +15,15 @@ As mentioned above, the analysis would determine the outcomes of campaigns based
 In the first section of the analysis, I used the “Kickstarter” dataset to create a  pivot table. I filtered the table based on “Year” data to determine the number of successful, failed, and canceled campaigns. Since Louise is interested in the outcomes of theatrical plays, I also filtered the outcomes based on the parent category “theater.” 
  
 **Here's a graph of the outcomes:**
- 
-/Users/merigalstyan/Desktop/Bootcamp Modules/Module 1/Results.pnd/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111609994/187269606-302ad81b-b810-44e8-ac40-679add25bf64.png)
+
  
 ### Analysis of Outcomes Based on Goals
 The next step of the analysis would be uncovering the percentage of successful, failed, and canceled plays based on their funding goal. I used the “COUNTIFS” function in this section to filter the sub-category by plays, outcomes, and fundraising goals. This allowed me to determine the numbers of successful, failed, and canceled campaigns. Based on the resulting data, I calculated the percentage of successful, failed, and canceled campaigns.
  
 **The visual of the outcome:**
-/Users/merigalstyan/Desktop/Bootcamp Modules/Module 1/Results.pnd/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111609994/187269629-2b0abe45-5500-4291-9936-e33ccbb3e2da.png)
+
  
 ### Challenges and Difficulties Encountered
 One of this analysis’s challenges was ensuring the "Countifs" function returned all the correct numbers. Since I needed to filter the data by the goal, outcomes, and categories, I created an extra pivot table to double-check all the correct numbers for my analysis. In addition, since canceled plays were 0, I used the pivot table for double-checking if my analysis was correct.
