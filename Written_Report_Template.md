@@ -30,12 +30,12 @@ One of this analysis’s challenges was ensuring the "Countifs" function returne
  
 ## Results
  
-###The Outcomes based on Launch Date.
+### The Outcomes based on Launch Date.
  
 I determined that the most successful campaigns throughout the years have been around May and even June. This gives Louise an edge to organize her campaign around that time to be more successful. 
 Although May has a significantly high success rate, it should be mentioned that failed campaigns also increase around May till August.
  
-###The Outcomes based on Goals.
+### The Outcomes based on Goals.
 The results indicate that the higher the fundraising goal is, the more failed plays there are. As the fundraising goal increases, the number of failed plays also increases. Lower expectations of fundraising goals result in more successful projects. We can assume that fundraising goal has a direct link with success. Although it may not be the only reason for failed campaigns, it has a huge impact, and Louise should consider a lower budget.
  
 ### The limitations of the dataset?
